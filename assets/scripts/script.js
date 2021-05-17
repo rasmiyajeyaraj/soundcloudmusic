@@ -34,6 +34,34 @@ const songs = [
     discPath: 'assets/music/music6.mp3',
     duration: '5:14',
   },
+  {
+    title: 'Alakai pookuthe',
+    artist: 'Vijay antony',
+    coverPath: 'assets/images/7.jpeg',
+    discPath: 'assets/music/music7.mp3',
+    duration: '5:14',
+  },
+  {
+    title: 'Kann pasum varthikal',
+    artist: ' Yuvan Shankar Raja',
+    coverPath: 'assets/images/2.jpeg',
+    discPath: 'assets/music/music8.mp3',
+    duration: '5:14',
+  },
+  {
+    title: 'Knnakanum kalankal',
+    artist: 'Yuvan Shankar ',
+    coverPath: 'assets/images/j2.jpeg',
+    discPath: 'assets/music/music9.mp3',
+    duration: '5:14',
+  },
+  {
+    title: 'Kavithaie theriyuma',
+    artist: 'R.P.Patnaik.',
+    coverPath: 'assets/images/j3.jpeg',
+    discPath: 'assets/music/music10.mp3',
+    duration: '5:14',
+  },
 ];
 
 // Load song initially
